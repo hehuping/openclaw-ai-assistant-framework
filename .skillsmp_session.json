@@ -1,0 +1,73 @@
+[
+  {
+    "name": "NEXT_LOCALE",
+    "value": "en",
+    "domain": "skillsmp.com",
+    "path": "/",
+    "expires": -1,
+    "size": 13,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.569776828.1772087958",
+    "domain": ".skillsmp.com",
+    "path": "/",
+    "expires": 1806647957.519351,
+    "size": 29,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_clck",
+    "value": "1m8ql0h%5E2%5Eg3w%5E0%5E2248",
+    "domain": ".skillsmp.com",
+    "path": "/",
+    "expires": 1803623958,
+    "size": 33,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_clsk",
+    "value": "1tqo8j5%5E1772087965996%5E2%5E1%5Ey.clarity.ms%2Fcollect",
+    "domain": ".skillsmp.com",
+    "path": "/",
+    "expires": 1772174365,
+    "size": 61,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "_ga_J6245ERBTK",
+    "value": "GS2.1.s1772087957$o1$g1$t1772087965$j52$l0$h0$dTbA7Sut-zT5z74WKWpTDZUg7-s84PRwOFw",
+    "domain": ".skillsmp.com",
+    "path": "/",
+    "expires": 1806647965.96955,
+    "size": 95,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
