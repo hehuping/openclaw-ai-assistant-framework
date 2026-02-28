@@ -23,7 +23,10 @@
     "hk-ai-stock-expert",
     "alicloud-ai-text-document-mind",
     "ai-hunter-pro",
-    "ai-news-zh"
+    "ai-news-zh",
+    "photo-captions",
+    "instagram-photo-text-overlay",
+    "instagram-photo-find"
   ],
   "keywordIndex": 3
 }

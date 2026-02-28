@@ -60,6 +60,18 @@
     "ai-news-zh": {
       "version": "1.0.0",
       "installedAt": 1772240647130
+    },
+    "photo-captions": {
+      "version": "1.2.1",
+      "installedAt": 1772244140372
+    },
+    "instagram-photo-text-overlay": {
+      "version": "1.0.0",
+      "installedAt": 1772244148044
+    },
+    "instagram-photo-find": {
+      "version": "1.0.0",
+      "installedAt": 1772244155955
     }
   }
 }
