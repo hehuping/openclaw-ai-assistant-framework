@@ -78,6 +78,8 @@
 | **文本池** | moonshot/kimi-k2.5 | kimi-coding/k2p5 | 长文本 |
 | **视觉池** | zai/glm-4.6v | kimi-coding/k2p5 | 图片/视频 |
 
+#### 如果没有配置对应模型apikey，可使用默认模型
+
 **健康检查**: 每6小时检查一次
 
 **配置文件**: `config/model-pools.json`
